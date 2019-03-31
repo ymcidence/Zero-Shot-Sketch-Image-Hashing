@@ -1,6 +1,5 @@
 # Zero-Shot Sketch-Image Hashing
--------------------------------------------
--------------------------------------------
+
 ![fig](/pic/fig.jpg)
 
 Sorry for the late release... It's been roughly a year since acceptance, but I was so lazy.
