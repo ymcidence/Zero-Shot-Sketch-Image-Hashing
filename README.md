@@ -6,7 +6,7 @@ Sorry for the late release... It's been roughly a year since acceptance, but I w
 
 This is the released version of our work at CVPR2018:
 
-[Yuming Shen, Li Liu, Fumin Shen, and Ling Shao. "Zero-shot sketch-image hashing." In CVPR. 2018.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Zero-Shot_Sketch-Image_Hashing_CVPR_2018_paper.pdf)
+* [Yuming Shen, Li Liu, Fumin Shen, and Ling Shao. "Zero-shot sketch-image hashing." In CVPR. 2018.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Zero-Shot_Sketch-Image_Hashing_CVPR_2018_paper.pdf)
 
 
 *Note that this is a simplified version of the original paper with feature inputs only for GENERALITY.*
