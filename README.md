@@ -37,3 +37,11 @@ Make sure that you have the following objects in the data file:
 One needs to save the image data and the sketch data separately into two files.
 
 If you are interested in getting the original image and sketch data, please refer to [this work](https://github.com/ymcidence/DeepSketchHashing).
+
+## Having problems?
+
+If so, please contact
+
+ym_zmxncbv@hotmail.com
+
+I am no longer with the university...
